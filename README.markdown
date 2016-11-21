@@ -1,3 +1,6 @@
+
+### The extension is now being maintained at the [php-zookeeper](https://github.com/php-zookeeper) organization.
+
 Description
 -----------
 
